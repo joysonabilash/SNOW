@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module">
+    <sys_app_module action="DELETE">
+        <active>true</active>
+        <application display_value="System Import Sets">import_sets</application>
+        <assessment/>
+        <device_type/>
+        <filter/>
+        <hint/>
+        <homepage/>
+        <image/>
+        <link_type>LIST</link_type>
+        <map_page/>
+        <mobile_title>To Do 1719953601407</mobile_title>
+        <mobile_view_name>Mobile</mobile_view_name>
+        <name>x_1393996_to_do_1719953601407</name>
+        <order>1100</order>
+        <override_menu_roles>false</override_menu_roles>
+        <query/>
+        <report/>
+        <require_confirmation>true</require_confirmation>
+        <roles/>
+        <sys_class_name>sys_app_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-07-02 20:53:23</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>9566d69fc3830a1037d1b7ddd40131b5</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>To Do 1719953601407</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="To Do" source="x_1393996_to_do">dbc5865bc3430a1037d1b7ddd4013126</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="To Do">dbc5865bc3430a1037d1b7ddd4013126</sys_scope>
+        <sys_update_name>sys_app_module_9566d69fc3830a1037d1b7ddd40131b5</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-07-02 20:53:23</sys_updated_on>
+        <timeline_page/>
+        <title>To Do 1719953601407</title>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+        <window_name/>
+    </sys_app_module>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="To Do">dbc5865bc3430a1037d1b7ddd4013126</application>
+        <file_path/>
+        <instance_id>b02dbff0eb8742d856eafddacad0cd76</instance_id>
+        <instance_name>dev275709</instance_name>
+        <name>sys_app_module_9566d69fc3830a1037d1b7ddd40131b5</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module"><sys_app_module action="INSERT_OR_UPDATE"><active>true</active><application display_value="System Import Sets">import_sets</application><assessment/><device_type/><filter/><hint/><homepage/><image/><link_type>LIST</link_type><map_page/><mobile_title>To Do 1719953601407</mobile_title><mobile_view_name>Mobile</mobile_view_name><name>x_1393996_to_do_1719953601407</name><order>1100</order><override_menu_roles>false</override_menu_roles><query/><report/><require_confirmation>true</require_confirmation><roles/><sys_class_name>sys_app_module</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-07-02 20:53:23</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>9566d69fc3830a1037d1b7ddd40131b5</sys_id><sys_mod_count>0</sys_mod_count><sys_name>To Do 1719953601407</sys_name><sys_overrides/><sys_package display_value="To Do" source="x_1393996_to_do">dbc5865bc3430a1037d1b7ddd4013126</sys_package><sys_policy/><sys_scope display_value="To Do">dbc5865bc3430a1037d1b7ddd4013126</sys_scope><sys_update_name>sys_app_module_9566d69fc3830a1037d1b7ddd40131b5</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-07-02 20:53:23</sys_updated_on><timeline_page/><title>To Do 1719953601407</title><uncancelable>false</uncancelable><view_name/><window_name/></sys_app_module></record_update>]]></payload>
+        <payload_hash>-673468413</payload_hash>
+        <record_name>To Do 1719953601407</record_name>
+        <reverted_from/>
+        <source>e37706dbc3030a1037d1b7ddd40131d3</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-07-02 20:53:23</sys_created_on>
+        <sys_id>dd66d69fc3830a1037d1b7ddd40131b8</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>19075393c440000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-07-02 20:53:23</sys_updated_on>
+        <type>Module</type>
+        <update_guid>9166d69f11830a103068efb8f43fb8b8</update_guid>
+        <update_guid_history>9166d69f11830a103068efb8f43fb8b8:-673468413</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="To Do 1719953601407">c8b69e9fc3830a1037d1b7ddd40131b3</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-07-02 20:54:40</sys_created_on>
+        <sys_db_object display_value="" name="sys_app_module">sys_app_module</sys_db_object>
+        <sys_id>430104913cb84a94875eba5d4371bbe4</sys_id>
+        <sys_metadata>9566d69fc3830a1037d1b7ddd40131b5</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>To Do 1719953601407</sys_name>
+        <sys_package display_value="To Do" source="x_1393996_to_do">dbc5865bc3430a1037d1b7ddd4013126</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="To Do">dbc5865bc3430a1037d1b7ddd4013126</sys_scope>
+        <sys_scope_delete display_value="">64de129f22214bc0969bad1474dda400</sys_scope_delete>
+        <sys_update_name>sys_app_module_9566d69fc3830a1037d1b7ddd40131b5</sys_update_name>
+        <sys_update_version display_value="sys_app_module_9566d69fc3830a1037d1b7ddd40131b5">dd66d69fc3830a1037d1b7ddd40131b8</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-07-02 20:54:40</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

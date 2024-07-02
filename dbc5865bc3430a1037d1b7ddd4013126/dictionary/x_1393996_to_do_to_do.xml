@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="72f656dfc3830a1037d1b7ddd40131cc" label="To Do" max_length="40" name="x_1393996_to_do_to_do" type="collection">
+        <element label="Assigned to" max_length="32" name="assigned_to" reference="sys_user" type="reference"/>
+        <element label="Send reminder" max_length="40" name="send_reminder" type="boolean"/>
+        <element choice="3" default="Important" label="Importance" max_length="40" name="importance" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Important" sequence="2" value="Important"/>
+                <element inactive_on_update="false" label="Not Important" sequence="1" value="Not Important"/>
+                <element inactive_on_update="false" label="Very Important" sequence="3" value="Very Important"/>
+            </choice>
+        </element>
+        <element display="true" label="To do item" max_length="150" name="to_do_item" type="string"/>
+        <element choice="3" default="Not Started" label="Progress" max_length="40" name="progress" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Canceled" sequence="4" value="Canceled"/>
+                <element inactive_on_update="false" label="Done" sequence="3" value="Done"/>
+                <element inactive_on_update="false" label="In Progress" sequence="2" value="In Progress"/>
+                <element inactive_on_update="false" label="Not Started" sequence="1" value="Not Started"/>
+            </choice>
+        </element>
+        <element label="Due date" max_length="40" name="due_date" type="glide_date"/>
+        <element label="Project" max_length="32" name="project" reference="x_1393996_to_do_to_do_project" type="reference"/>
+        <index name="index">
+            <element name="assigned_to"/>
+        </index>
+        <index name="index2">
+            <element name="project"/>
+        </index>
+    </element>
+</database>
