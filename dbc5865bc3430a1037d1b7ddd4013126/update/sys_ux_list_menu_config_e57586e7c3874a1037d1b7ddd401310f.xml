@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_list_menu_config">
+    <sys_ux_list_menu_config action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <description/>
+        <name>To Do Workspace_menu_config</name>
+        <sys_class_name>sys_ux_list_menu_config</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-07-03 14:17:53</sys_created_on>
+        <sys_id>e57586e7c3874a1037d1b7ddd401310f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>To Do Workspace_menu_config</sys_name>
+        <sys_package display_value="To Do" source="x_1393996_to_do">dbc5865bc3430a1037d1b7ddd4013126</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="To Do">dbc5865bc3430a1037d1b7ddd4013126</sys_scope>
+        <sys_update_name>sys_ux_list_menu_config_e57586e7c3874a1037d1b7ddd401310f</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-07-03 14:17:53</sys_updated_on>
+    </sys_ux_list_menu_config>
+</record_update>

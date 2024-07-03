@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_category">
+    <sc_cat_item_category action="DELETE">
+        <sc_cat_item display_value="Request a new To Do Project">9fa20d63c3434a1037d1b7ddd4013143</sc_cat_item>
+        <sc_category display_value="Can We Help You?">e15706fc0a0a0aa7007fc21e1ab70c2f</sc_category>
+        <sys_class_name>sc_cat_item_category</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-07-03 09:32:40</sys_created_on>
+        <sys_id>eb244de3c3434a1037d1b7ddd40131af</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Can We Help You?.Request a new To Do Project</sys_name>
+        <sys_package display_value="To Do" source="x_1393996_to_do">dbc5865bc3430a1037d1b7ddd4013126</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="To Do">dbc5865bc3430a1037d1b7ddd4013126</sys_scope>
+        <sys_update_name>sc_cat_item_category_eb244de3c3434a1037d1b7ddd40131af</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-07-03 09:32:40</sys_updated_on>
+    </sc_cat_item_category>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="To Do">dbc5865bc3430a1037d1b7ddd4013126</application>
+        <file_path/>
+        <instance_id>b02dbff0eb8742d856eafddacad0cd76</instance_id>
+        <instance_name>dev275709</instance_name>
+        <name>sc_cat_item_category_eb244de3c3434a1037d1b7ddd40131af</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_category"><sc_cat_item_category action="INSERT_OR_UPDATE"><sc_cat_item display_value="Request a new To Do Project">9fa20d63c3434a1037d1b7ddd4013143</sc_cat_item><sc_category display_value="Can We Help You?">e15706fc0a0a0aa7007fc21e1ab70c2f</sc_category><sys_class_name>sc_cat_item_category</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-07-03 09:32:40</sys_created_on><sys_id>eb244de3c3434a1037d1b7ddd40131af</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Can We Help You?.Request a new To Do Project</sys_name><sys_package display_value="To Do" source="x_1393996_to_do">dbc5865bc3430a1037d1b7ddd4013126</sys_package><sys_policy/><sys_scope display_value="To Do">dbc5865bc3430a1037d1b7ddd4013126</sys_scope><sys_update_name>sc_cat_item_category_eb244de3c3434a1037d1b7ddd40131af</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-07-03 09:32:40</sys_updated_on></sc_cat_item_category></record_update>]]></payload>
+        <payload_hash>-547756892</payload_hash>
+        <record_name>Can We Help You?.Request a new To Do Project</record_name>
+        <reverted_from/>
+        <source>e37706dbc3030a1037d1b7ddd40131d3</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-07-03 09:32:40</sys_created_on>
+        <sys_id>63244de3c3434a1037d1b7ddd40131b4</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>19077f05f780000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-07-03 09:32:40</sys_updated_on>
+        <type>Catalog Item Category</type>
+        <update_guid>a3244de3ac434a10de0c06ac33d5ffb3</update_guid>
+        <update_guid_history>a3244de3ac434a10de0c06ac33d5ffb3:-547756892</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Can We Help You?.Request a new To Do Project">ffd541a7c3434a1037d1b7ddd40131c1</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-07-03 09:40:03</sys_created_on>
+        <sys_db_object display_value="" name="sc_cat_item_category">sc_cat_item_category</sys_db_object>
+        <sys_id>ac0e079b5a2e481dbfbf84d0db024549</sys_id>
+        <sys_metadata>eb244de3c3434a1037d1b7ddd40131af</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Can We Help You?.Request a new To Do Project</sys_name>
+        <sys_package display_value="To Do" source="x_1393996_to_do">dbc5865bc3430a1037d1b7ddd4013126</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="To Do">dbc5865bc3430a1037d1b7ddd4013126</sys_scope>
+        <sys_scope_delete display_value="">64de129f22214bc0969bad1474dda400</sys_scope_delete>
+        <sys_update_name>sc_cat_item_category_eb244de3c3434a1037d1b7ddd40131af</sys_update_name>
+        <sys_update_version display_value="sc_cat_item_category_eb244de3c3434a1037d1b7ddd40131af">63244de3c3434a1037d1b7ddd40131b4</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-07-03 09:40:03</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

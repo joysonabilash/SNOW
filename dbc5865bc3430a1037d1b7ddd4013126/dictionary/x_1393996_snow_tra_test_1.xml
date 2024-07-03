@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="c3cd37c7c387c61037d1b7ddd4013139" label="Test_1" max_length="40" name="x_1393996_snow_tra_test_1" type="collection">
+        <element label="FX Currency" max_length="32" name="x_1393996_to_do_fx_currency" type="currency2"/>
+        <element label="Conditions" max_length="4000" name="x_1393996_to_do_conditions" type="conditions"/>
+        <element label="Duration" max_length="40" name="x_1393996_to_do_duration" type="glide_duration"/>
+        <element label="Document ID" max_length="32" name="x_1393996_to_do_document_id" type="document_id"/>
+        <element label="Icon" max_length="100" name="x_1393996_to_do_icon" type="icon"/>
+        <element label="Condition String" max_length="40" name="x_1393996_to_do_condition_string" type="condition_string"/>
+        <element label="Domain ID" max_length="32" name="x_1393996_to_do_domain_id" type="domain_id"/>
+        <element label="Field Name" max_length="80" name="x_1393996_to_do_field_name" type="field_name"/>
+        <element label="Decimal" max_length="20" name="x_1393996_to_do_decimal" type="decimal"/>
+        <index name="index">
+            <element name="x_1393996_to_do_document_id"/>
+        </index>
+        <index name="index2">
+            <element name="x_1393996_to_do_domain_id"/>
+        </index>
+        <index name="index3">
+            <element name="x_1393996_to_do_fx_currency"/>
+        </index>
+    </element>
+</database>

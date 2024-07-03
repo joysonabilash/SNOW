@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_package_dependency_m2m">
+    <sys_package_dependency_m2m action="INSERT_OR_UPDATE">
+        <dependency display_value="SNOW Training" source="x_1393996_snow_tra">8b2d3f8fc347c61037d1b7ddd401310a</dependency>
+        <min_version>1.0.0</min_version>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-07-03 04:18:49</sys_created_on>
+        <sys_id>525c3f53c3cb0a1037d1b7ddd4013154</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_package display_value="To Do" source="x_1393996_to_do">dbc5865bc3430a1037d1b7ddd4013126</sys_package>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-07-03 04:18:49</sys_updated_on>
+    </sys_package_dependency_m2m>
+</record_update>
