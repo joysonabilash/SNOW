@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_user_role_contains">
+    <sys_user_role_contains action="DELETE">
+        <contains display_value="canvas_user" name="canvas_user">8536f54bc713330072b211d4d8c26080</contains>
+        <role display_value="x_1393996_to_do.APP Admin" name="x_1393996_to_do.APP Admin">a60b5e27c30b4a1037d1b7ddd40131cb</role>
+        <sys_class_name>sys_user_role_contains</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-07-03 15:52:11</sys_created_on>
+        <sys_id>430b9e27c30b4a1037d1b7ddd401315f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>canvas_user.x_1393996_to_do.APP Admin</sys_name>
+        <sys_package display_value="To Do" source="x_1393996_to_do">dbc5865bc3430a1037d1b7ddd4013126</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="To Do">dbc5865bc3430a1037d1b7ddd4013126</sys_scope>
+        <sys_update_name>sys_user_role_contains_430b9e27c30b4a1037d1b7ddd401315f</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-07-03 15:52:11</sys_updated_on>
+    </sys_user_role_contains>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="To Do">dbc5865bc3430a1037d1b7ddd4013126</application>
+        <file_path/>
+        <instance_id>b02dbff0eb8742d856eafddacad0cd76</instance_id>
+        <instance_name>dev275709</instance_name>
+        <name>sys_user_role_contains_430b9e27c30b4a1037d1b7ddd401315f</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_user_role_contains"><sys_user_role_contains action="INSERT_OR_UPDATE"><contains display_value="canvas_user" name="canvas_user">8536f54bc713330072b211d4d8c26080</contains><role display_value="x_1393996_to_do.APP Admin" name="x_1393996_to_do.APP Admin">a60b5e27c30b4a1037d1b7ddd40131cb</role><sys_class_name>sys_user_role_contains</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-07-03 15:52:11</sys_created_on><sys_id>430b9e27c30b4a1037d1b7ddd401315f</sys_id><sys_mod_count>0</sys_mod_count><sys_name>canvas_user.x_1393996_to_do.APP Admin</sys_name><sys_package display_value="To Do" source="x_1393996_to_do">dbc5865bc3430a1037d1b7ddd4013126</sys_package><sys_policy/><sys_scope display_value="To Do">dbc5865bc3430a1037d1b7ddd4013126</sys_scope><sys_update_name>sys_user_role_contains_430b9e27c30b4a1037d1b7ddd401315f</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-07-03 15:52:11</sys_updated_on></sys_user_role_contains></record_update>]]></payload>
+        <payload_hash>616627234</payload_hash>
+        <record_name>canvas_user.x_1393996_to_do.APP Admin</record_name>
+        <reverted_from/>
+        <source>e37706dbc3030a1037d1b7ddd40131d3</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-07-03 15:52:11</sys_created_on>
+        <sys_id>0f0b9e27c30b4a1037d1b7ddd4013162</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>190794bd7330000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-07-03 15:52:11</sys_updated_on>
+        <type>Contained Role</type>
+        <update_guid>cf0b9e27230b4a1067bce286fe55cb61</update_guid>
+        <update_guid_history>cf0b9e27230b4a1067bce286fe55cb61:616627234</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-07-03 17:01:33</sys_created_on>
+        <sys_db_object display_value="" name="sys_user_role_contains">sys_user_role_contains</sys_db_object>
+        <sys_id>151028e6762e4251834089419d86a7a9</sys_id>
+        <sys_metadata>430b9e27c30b4a1037d1b7ddd401315f</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>canvas_user.x_1393996_to_do.APP Admin</sys_name>
+        <sys_package display_value="To Do" source="x_1393996_to_do">dbc5865bc3430a1037d1b7ddd4013126</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="To Do">dbc5865bc3430a1037d1b7ddd4013126</sys_scope>
+        <sys_scope_delete display_value="">64de129f22214bc0969bad1474dda400</sys_scope_delete>
+        <sys_update_name>sys_user_role_contains_430b9e27c30b4a1037d1b7ddd401315f</sys_update_name>
+        <sys_update_version display_value="sys_user_role_contains_430b9e27c30b4a1037d1b7ddd401315f">0f0b9e27c30b4a1037d1b7ddd4013162</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-07-03 17:01:33</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

@@ -13,7 +13,7 @@
         <is_custom_size>false</is_custom_size>
         <is_hidden_preference_name/>
         <orientation>vertical</orientation>
-        <required_roles>x_1393996_to_do.admin,x_1393996_to_do.APP Admin,x_1393996_to_do.user</required_roles>
+        <required_roles>x_1393996_to_do.admin,x_1393996_to_do.user</required_roles>
         <row_count/>
         <sys_class_name>sys_sg_icon_section</sys_class_name>
         <sys_created_by>admin</sys_created_by>

@@ -6,7 +6,7 @@
         <header_titles/>
         <hide_empty_sections>true</hide_empty_sections>
         <name>To Do</name>
-        <required_roles>x_1393996_to_do.admin,x_1393996_to_do.APP Admin,x_1393996_to_do.user</required_roles>
+        <required_roles>x_1393996_to_do.admin,x_1393996_to_do.user</required_roles>
         <search_config/>
         <sys_class_name>sys_sg_applet_launcher</sys_class_name>
         <sys_created_by>admin</sys_created_by>
