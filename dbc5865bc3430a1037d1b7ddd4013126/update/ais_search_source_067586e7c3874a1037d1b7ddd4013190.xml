@@ -3,6 +3,7 @@
         <active>true</active>
         <condition/>
         <datasource display_value="">x_1393996_to_do_to_do_project</datasource>
+        <has_dynamic_filters>false</has_dynamic_filters>
         <name>To Do Project</name>
         <sys_class_name>ais_search_source</sys_class_name>
         <sys_created_by>admin</sys_created_by>
